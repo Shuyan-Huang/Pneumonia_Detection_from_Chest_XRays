@@ -37,4 +37,4 @@ In the real world, medical imaging data is usually contained inside of standard 
 
 The overall accuracy on the validation set was 65%.
 
-![Confusion Matrix](images/cm.png?s=100)
+<img src="images/cm.png" width="600" height="400">
