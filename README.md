@@ -37,5 +37,5 @@ In the real world, medical imaging data is usually contained inside of standard 
 
 **Note**    
 If the notebooks do not render appropriately, please check out below links:   
-- [Step1_Exploratory_Data_Analysis](https://nbviewer.jupyter.org/github/Shuyan-Huang/Pneumonia_Detection_from_Chest_XRays/blob/master/Step1_Exploratory_Data_Analysis.ipynb)  
-- [Step2_Modeling_and_Inference](https://nbviewer.jupyter.org/github/Shuyan-Huang/Pneumonia_Detection_from_Chest_XRays/blob/master/Step2_Modeling_and_Inference.ipynb)
+- [Step1_Exploratory_Data_Analysis](https://nbviewer.jupyter.org/github/shuang379/Pneumonia_Detection_from_Chest_XRays/blob/master/Step1_Exploratory_Data_Analysis.ipynb)  
+- [Step2_Modeling_and_Inference](https://nbviewer.jupyter.org/github/shuang379/Pneumonia_Detection_from_Chest_XRays/blob/master/Step2_Modeling_and_Inference.ipynb)
