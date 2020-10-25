@@ -35,4 +35,7 @@ The second part was to apply transfer learning using a pre-trained CNN architect
 
 In the real world, medical imaging data is usually contained inside of standard DICOM files. In the third part, a DICOM wrapper was created to take in a standard DICOM file and output data in the format that the trained model could accept. 
 
-
+**Note**    
+If the notebooks do not render appropriately, please check out below links:   
+- [Step1_Exploratory_Data_Analysis](https://nbviewer.jupyter.org/github/Shuyan-Huang/Pneumonia_Detection_from_Chest_XRays/blob/master/Step1_Exploratory_Data_Analysis.ipynb)  
+- [Step2_Modeling_and_Inference](https://nbviewer.jupyter.org/github/Shuyan-Huang/Pneumonia_Detection_from_Chest_XRays/blob/master/Step2_Modeling_and_Inference.ipynb)
