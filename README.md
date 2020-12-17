@@ -4,7 +4,7 @@ This project was designed by Udacity to deliver hands-on experience with 2D medi
 
 Chest X-Ray exam is the best available and cost-effective method for pneumonia diagonosis. Its high enough quantity makes it a good candidate for deep learning application. However, deriving clinical diagnoses from chest X-Rays can be very challenging even for skilled radiologists. This project aims to work as a practice of **transfer learning** application in medical imaging analysis and its **integration into clinical workflow**, instead of pursuing high model performance. 
 
-The dataset for this project was released as NIH Chest X-ray Dataset, composed of 112,120 X-ray images with disease labels from 30,805 uinque patients. A total of 14 disease labels were extrated from rediological reports using Natural Language Processing. They are expected to be >90% accuate and suitable for weakly-supervised learning. [Link to the paper]([https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community))
+The dataset for this project was released as NIH Chest X-ray Dataset, composed of 112,120 X-ray images with disease labels from 30,805 uinque patients. A total of 14 disease labels were extrated from rediological reports using Natural Language Processing. They are expected to be >90% accuate and suitable for weakly-supervised learning. [Link to the paper](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
 
 ## Details:
 
